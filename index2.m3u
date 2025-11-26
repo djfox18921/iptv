@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter SD
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter SD
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
 #EXTINF:-1 tvg-id="AB1.fr@SD" tvg-logo="https://i.imgur.com/9C7UsOe.png" group-title="Entertainment",AB1 SD
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
