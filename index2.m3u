@@ -91,7 +91,7 @@ https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouvert
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://i.postimg.cc/MpjZFqGF/rmcstory.png" group-title="",RMC Story SD
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
-#EXTINF:-1 tvg-id="RTL9.lu" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="Entertainment",RTL9 SD
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="Entertainment",RTL9 SD
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="General",RTL Tele Letzebuerg SD
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
