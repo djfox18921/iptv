@@ -83,8 +83,6 @@ https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr@SD" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Music",Qwest TV Jazz & Beyond SD
 https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioKaraoke.fr@SD" tvg-logo="https://i.imgur.com/9uRggjD.png" group-title="Music",Radio Karaoke SD
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="Movies;Series",Paramount Channel SD
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="",Planete+ SD
@@ -103,7 +101,7 @@ https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 https://tvradiozap.eu/1014
 #EXTINF:-1 tvg-id="RTL9.fr" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="Entertainment",RTL9 SD
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
-#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="General",RTL Tele Letzebuerg SD
+#EXTINF:-1 tvg-id="RTLTeleLuxembourg.lu" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="General",RTL Tele Letzebuerg SD
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="",RTL-TVI SD
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
@@ -184,8 +182,6 @@ https://tvradiozap.eu/845
 https://tvradiozap.eu/721
 #EXTINF:-1 tvg-id="FR2600007CB" tvg-name="Rakuten TV Top Films" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/3674524a-b752-48f9-a8f5-7a9ecec2dada-width400-quality90.jpeg" group-title="Cinéma",Rakuten TV Top Films
 https://tvradiozap.eu/722
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten Viki" tvg-logo="https://1.vikiplatform.com/cms-uploads/uncategorized/Viki-logo-blue-268w_1716530859_879.png" group-title="Cinéma",Rakuten Viki
-https://tvradiozap.eu/1227
 #EXTINF:-1 tvg-id="" tvg-name="Sci-Fi" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b44c79e9-a7da-406c-b3e2-48c20910e48b-width200-quality90.jpeg" group-title="Cinéma",Sci-Fi
 https://tvradiozap.eu/1335
 #EXTINF:-1 tvg-id="FR:.ScreamIN.fr" tvg-name="ScreamIN" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9632cedb-5638-4010-9528-3ebf0071d631-screamin-1639988850-width200-quality90.jpeg" group-title="Cinéma",ScreamIN
@@ -203,10 +199,6 @@ https://tvradiozap.eu/652
 
 #EXTINF:-1 tvg-id="NoovoComedies.ca" tvg-name="Noovo Comédies  (CA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Noovo_logo.png/512px-Noovo_logo.png" group-title="Divertissement",Noovo Comédies  (CA)
 https://tvradiozap.eu/1141
-#EXTINF:-1 tvg-id="" tvg-name="PopCorn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/POPCORN_%28%C3%A9mission%29_Logo_Reproduction.png/330px-POPCORN_%28%C3%A9mission%29_Logo_Reproduction.png" group-title="Divertissement",PopCorn
-https://tvradiozap.eu/1101
-#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-name="RMC Mystère" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCMystere.jpg" group-title="Divertissement",RMC Mystère
-https://tvradiozap.eu/1014
 
 
 
@@ -216,8 +208,6 @@ https://tvradiozap.eu/1054
 https://tvradiozap.eu/724
 #EXTINF:-1 tvg-id="" tvg-name="DocStory" tvg-logo="https://mediakwest.com/wp-content/uploads/2024/04/thumbnail_Gedeon-Doc-Story-Mediakwest.jpg" group-title="Documentaires",DocStory
 https://tvradiozap.eu/1155
-#EXTINF:-1 tvg-id="RMCMecanic.fr" tvg-name="RMC Mecanic" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCMecanicmin.jpg" group-title="Documentaires",RMC Mecanic
-https://tvradiozap.eu/1017
 #EXTINF:-1 tvg-id="RMCWow.fr" tvg-name="RMC Wow" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCWowmin.jpg" group-title="Documentaires",RMC Wow
 https://tvradiozap.eu/1016
 
@@ -231,9 +221,6 @@ https://tvradiozap.eu/874
 https://tvradiozap.eu/912
 
 
-
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="RTL TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RTL-TVI_logo.svg/330px-RTL-TVI_logo.svg.png" group-title="Généraliste",RTL TVI
-https://tvradiozap.eu/906
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5Monde FBS" tvg-logo="https://i.imgur.com/uGs4HSL.png" group-title="Généraliste",TV5Monde FBS
 https://tvradiozap.eu/665
 
@@ -303,8 +290,6 @@ https://tvradiozap.eu/1172
 https://tvradiozap.eu/1115
 #EXTINF:-1 tvg-id="RMCAlerteSecours.fr" tvg-name="RMC Alerte Secours" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCAlertesecours.jpg" group-title="Reportages",RMC Alerte Secours
 https://tvradiozap.eu/1018
-#EXTINF:-1 tvg-id="FR:.Scene.de.Crime.fr" tvg-name="Scène de crime" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ebd30033-1eba-40b2-ae22-54a97c2f5e8a-width640-quality90.jpeg" group-title="Reportages",Scène de crime
-https://tvradiozap.eu/1171
 
 
 
