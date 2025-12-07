@@ -15,8 +15,14 @@ https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Entertainment",Canal+ SD
 http://151.80.18.177:86/Canal+_HD/index.m3u8
-#EXTINF:-1 tvg-id="Wild Side" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Wild_Side_Films_Logo.png" group-title="Entertainment",Cine Nanar SD
+#EXTINF:-1 tvg-id="Wild Side" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Wild_Side_Films_Logo.png" group-title="Entertainment",Wild Side SD
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine Nanar" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Wild_Side_Films_Logo.png" group-title="Entertainment",Cine Nanar SD
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine Western" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Wild_Side_Films_Logo.png" group-title="Entertainment",Cine Western SD
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine Emotion" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Wild_Side_Films_Logo.png" group-title="Entertainment",Cine Emotion SD
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews SD
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cnews.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Entertainment",C Star SD
@@ -67,6 +73,8 @@ https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 #EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/langfr-512px-Logo_NOVO19_-_2025.svg.png" group-title="General",NOVO19 HD
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo-ParisPremiere-2023.svg" group-title="General",PARIS PREMIERE SD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr@SD" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Music",P2M TV SD
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema SD
@@ -95,6 +103,8 @@ https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouvert
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://i.postimg.cc/MpjZFqGF/rmcstory.png" group-title="",RMC Story SD
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-logo="https://i.postimg.cc/MpjZFqGF/rmcstory.png" group-title="",RMC Mystere SD
+https://tvradiozap.eu/1014
 #EXTINF:-1 tvg-id="RTL9.fr" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="Entertainment",RTL9 SD
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="General",RTL Tele Letzebuerg SD
