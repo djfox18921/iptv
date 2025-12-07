@@ -13,8 +13,8 @@ https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/512px-Canal_J_2019_Logo.png" group-title="Kids",Canal J HD
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Entertainment",Canal+ SD
-https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+#EXTINF:-1 tvg-id="Wild Side" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Wild_Side_Films_Logo.png" group-title="Entertainment",Cine Nanar SD
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews SD
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cnews.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Entertainment",C Star SD
