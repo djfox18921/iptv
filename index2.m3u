@@ -9,6 +9,8 @@ https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
 #EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Entertainment",arte HD
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+#EXTINF:-1 tvg-id="arte voyage" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Entertainment",arte voyage HD
+https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",BFM TV SD
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/512px-Canal_J_2019_Logo.png" group-title="Kids",Canal J HD
@@ -111,6 +113,8 @@ https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="",RMC Decouverte SD
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
+#EXTINF:-1 tvg-id="RMC Mecanic" tvg-logo="" group-title="",RMC Mecanic SD
+https://tvradiozap.eu/1017
 #EXTINF:-1 tvg-id="RMCLife.fr" tvg-logo="https://i.postimg.cc/2yS3sCNs/cherie25.png" group-title="Entertainment;Interactive",RMC Life SD
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://i.postimg.cc/MpjZFqGF/rmcstory.png" group-title="",RMC Story SD
