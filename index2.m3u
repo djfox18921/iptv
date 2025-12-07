@@ -33,6 +33,10 @@ https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine Western" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Wild_Side_Films_Logo.png" group-title="Entertainment",Cine Western SD
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="FRBD19000095S" tvg-name="Ciné Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20230614T005621SQUARE.png_20230614005622.png" group-title="Cinéma",Ciné Western
+https://tvradiozap.eu/861
+#EXTINF:-1 tvg-id="FRBD19000095S" tvg-name="Ciné Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20230614T005621SQUARE.png_20230614005622.png" group-title="Cinéma",Ciné Western
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8#861
 #EXTINF:-1 tvg-id="Cine Emotion" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Wild_Side_Films_Logo.png" group-title="Entertainment",Cine Emotion SD
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews SD
@@ -147,8 +151,6 @@ http://103.184.64.85:12000/stream/allchannel/rtbftipik/master.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 #EXTINF:-1 tvg-id="Trek.fr" tvg-logo="https://i.imgur.com/TcF53W4.png" group-title="",Trek HD
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
-#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:TV_Breizh_logo_2019.svg" group-title="",TV Breizh
-https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe SD
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-id="TVFinance.fr" tvg-logo="https://i.imgur.com/G3qimo4.png" group-title="Business",TV Finance SD
@@ -160,6 +162,8 @@ https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:-1 tvg-id="" tvg-name="C'est pas Sorcier" tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/thumbnail.jpg" group-title="Sciences",C'est pas Sorcier
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b579961bdba100071214cb/master.m3u8
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Action Totale" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR220000105_20250617T031603SQUARE.png&h=320" group-title="Cinéma",Action Totale
 https://tvradiozap.eu/1263
 #EXTINF:-1 tvg-id="AlloCine.fr" tvg-name="AlloCiné" tvg-logo="https://www.logotheque-vectorielle.fr/wp-content/uploads/2022/10/logo-vectoriel-allocine.jpg" group-title="Cinéma",AlloCiné
@@ -170,10 +174,9 @@ https://tvradiozap.eu/99
 https://tvradiozap.eu/1224
 #EXTINF:-1 tvg-id="" tvg-name="Box Office Thrillers" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20251028T011454SQUARE.png&h=250" group-title="Cinéma",Box Office Thrillers
 https://tvradiozap.eu/97
-#EXTINF:-1 tvg-id="FRBB39000020C" tvg-name="Ciné Nanar" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20230614T005557SQUARE.png_20230614005557.png" group-title="Cinéma",Ciné Nanar
-https://tvradiozap.eu/930
-#EXTINF:-1 tvg-id="FRBD19000095S" tvg-name="Ciné Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20230614T005621SQUARE.png_20230614005622.png" group-title="Cinéma",Ciné Western
-https://tvradiozap.eu/861
+
+
+
 #EXTINF:-1 tvg-id="FRBB340000115" tvg-name="Emotion'L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20220323T075813SQUARE.png_20220323075816.png" group-title="Cinéma",Emotion'L
 https://tvradiozap.eu/860
 #EXTINF:-1 tvg-id="FRBD2300001UQ" tvg-name="Family Club" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300001UQ_20240117T032758SQUARE.png_20240117032759.png" group-title="Cinéma",Family Club
@@ -218,8 +221,8 @@ https://tvradiozap.eu/1231
 https://tvradiozap.eu/1012
 #EXTINF:-1 tvg-id="FRBA3300021ME" tvg-name="Wildside TV" tvg-logo="https://revusetcorriges.com/wp-content/uploads/2017/11/boite-logo-wild-side.png" group-title="Cinéma",Wildside TV
 https://tvradiozap.eu/652
-#EXTINF:-1,-------------- Culture
-//
+
+
 #EXTINF:-1 tvg-id="TVFrancophonie.fr" tvg-name="Francophonie24" tvg-logo="https://tvfrancophonie.org/templates/tvfranco_accueil_j5/images/header.jpg" group-title="Culture",Francophonie24
 https://tvradiozap.eu/962
 #EXTINF:-1 tvg-id="PlutoTVHistoire.fr" tvg-name="Plu.TV Histoire" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/thumbnail.jpg" group-title="Culture",Plu.TV Histoire
@@ -228,10 +231,8 @@ https://tvradiozap.eu/788
 https://tvradiozap.eu/660
 #EXTINF:-1 tvg-id="tcm-tv.ca" tvg-name="TCM-TV   (CA)" tvg-logo="https://teleculturelle.com/wp-content/uploads/2024/01/tcm_logo_transparent-300x99.png" group-title="Culture",TCM-TV   (CA)
 https://tvradiozap.eu/149
-#EXTINF:-1,-------------- Divertissement
-//
-#EXTINF:-1 tvg-id="" tvg-name="Carac5 (CH)" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="Divertissement",Carac5 (CH)
-https://tvradiozap.eu/997
+
+
 #EXTINF:-1 tvg-id="FR:.Mr..Bean.-.Live.Action.fr" tvg-name="Mr. Bean" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/886ddc52-f992-424e-8816-bccf42f4e3af-width200-quality90.jpeg" group-title="Divertissement",Mr. Bean
 https://tvradiozap.eu/1190
 #EXTINF:-1 tvg-id="NoovoComedies.ca" tvg-name="Noovo Comédies  (CA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Noovo_logo.png/512px-Noovo_logo.png" group-title="Divertissement",Noovo Comédies  (CA)
@@ -243,8 +244,8 @@ https://tvradiozap.eu/1101
 #EXTINF:-1 tvg-id="RMCMystere.fr" tvg-name="RMC Mystère" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCMystere.jpg" group-title="Divertissement",RMC Mystère
 https://tvradiozap.eu/1014
 
-#EXTINF:-1,-------------- Documentaires
-//
+
+
 #EXTINF:-1 tvg-id="100docs.fr" tvg-name="100% Docs" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/12870917-15e4-4030-87f1-3e44a786e858-width640-quality90.jpeg" group-title="Documentaires",100% Docs
 https://tvradiozap.eu/1054
 #EXTINF:-1 tvg-id="BFMGrandsReportages.fr" tvg-name="BFM Grands Reportages" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle10920BFMGrandsreportages.jpg" group-title="Documentaires",BFM Grands Reportages
@@ -255,24 +256,25 @@ https://tvradiozap.eu/1155
 https://tvradiozap.eu/1017
 #EXTINF:-1 tvg-id="RMCWow.fr" tvg-name="RMC Wow" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCWowmin.jpg" group-title="Documentaires",RMC Wow
 https://tvradiozap.eu/1016
-#EXTINF:-1,-------------- Economie
-//
+
+
+
 #EXTINF:-1 tvg-id="BSMART.fr" tvg-name="B SMART" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/B_SMART_logo.png/225px-B_SMART_logo.png" group-title="Economie",B SMART
 https://tvradiozap.eu/873
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmbusinesscouleursnew.png" group-title="Economie",BFM Business
 https://tvradiozap.eu/874
 #EXTINF:-1 tvg-id="FinanceTV.fr" tvg-name="TV Finance" tvg-logo="https://rsrc.s3wfg.com/web/img/logos/tw-financal.png" group-title="Economie",TV Finance
 https://tvradiozap.eu/912
-#EXTINF:-1,-------------- Généraliste
-//
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ (plages en clair)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Canal-Logo.png/960px-Canal-Logo.png" group-title="Généraliste",Canal+ (plages en clair)
-https://tvradiozap.eu/670
+
+
+
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="RTL TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RTL-TVI_logo.svg/330px-RTL-TVI_logo.svg.png" group-title="Généraliste",RTL TVI
 https://tvradiozap.eu/906
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5Monde FBS" tvg-logo="https://i.imgur.com/uGs4HSL.png" group-title="Généraliste",TV5Monde FBS
 https://tvradiozap.eu/665
-#EXTINF:-1,-------------- Info
-//
+
+
+
 #EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM2" tvg-logo="https://th.bing.com/th/id/OIP.fez30n7UjPAbkbu95Z0YWgHaEK?w=640&h=360&c=1&dpr=1.5" group-title="Info",BFM2
 https://tvradiozap.eu/1110
 #EXTINF:-1 tvg-id="Euronews.fr" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="Info",Euronews
@@ -297,8 +299,8 @@ https://tvradiozap.eu/676
 https://tvradiozap.eu/869
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Info",TV5Monde Info
 https://tvradiozap.eu/673
-#EXTINF:-1,-------------- Jeunesse
-//
+
+
 #EXTINF:-1 tvg-id="FRBD5100001ZA" tvg-name="ADN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20240214T035741SQUARE.png_20240214035742.png" group-title="Jeunesse",ADN
 https://tvradiozap.eu/978
 #EXTINF:-1 tvg-id="fitinitv.fr" tvg-name="Fitini TV" tvg-logo="https://i.imgur.com/LoLKm1n.png" group-title="Jeunesse",Fitini TV
@@ -307,8 +309,9 @@ https://tvradiozap.eu/1059
 https://tvradiozap.eu/1055
 #EXTINF:-1 tvg-id="FRBD5100002NL" tvg-name="Supertoons" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100002NL_20241030T154340SQUARE.png&h=250" group-title="Jeunesse",Supertoons
 https://tvradiozap.eu/1218
-#EXTINF:-1,-------------- Jeux
-//
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="iXPé (BE)" tvg-logo="https://static-content.rtbf.be/article/image/1248x702/3/d/d/3740c9c5a9266241f4b10deff5478baf-1633607270.jpg" group-title="Jeux",iXPé (BE)
 https://tvradiozap.eu/1324
 #EXTINF:-1 tvg-id="" tvg-name="MGG Esport" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4e/Mgg_tv.png" group-title="Jeux",MGG Esport
@@ -328,8 +331,7 @@ https://tvradiozap.eu/979
 #EXTINF:-1 tvg-id="QwestJazzandbeyond.fr" tvg-name="Qwest Jazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Quest_2018.svg/langfr-225px-Quest_2018.svg.png" group-title="Musique",Qwest Jazz
 https://tvradiozap.eu/678
 
-#EXTINF:-1,-------------- Nature
-//
+
 #EXTINF:-1 tvg-id="FR3200001NQ" tvg-name="BBC Earth (GB)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20241015T040214SQUARE.png" group-title="Nature",BBC Earth (GB)
 https://tvradiozap.eu/1145
 #EXTINF:-1 tvg-id="FRBC4000001IO" tvg-name="Destination Nature" tvg-logo="https://images.samsung.com/is/image/samsung/assets/fr/smart-tv/samsung-tv-plus/all-channels/Destination_Nature_1000x1000_Circle_300_DPI-20220915-141455.png?$330_186_PNG$" group-title="Nature",Destination Nature
@@ -340,8 +342,8 @@ https://tvradiozap.eu/963
 https://tvradiozap.eu/704
 #EXTINF:-1 tvg-id="" tvg-name="Plu.TV Animaux" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/thumbnail.jpg" group-title="Nature",Plu.TV Animaux
 https://tvradiozap.eu/833
-#EXTINF:-1,-------------- Reportages
-//
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Crime Scene" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https://provider-static.plex.tv/epg/cms/production/0e7ca5ae-d7a9-4e1a-8d46-1503280f1de6/Crime_SceneTV_RDX_WHITE_GOOD.png" group-title="Reportages",Crime Scene
 https://tvradiozap.eu/1294
 #EXTINF:-1 tvg-id="FR:.Enquêtes.de.Choc.fr" tvg-name="Enquêtes de Choc" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20230712T021542SQUARE.png_20230712021542.png" group-title="Reportages",Enquêtes de Choc
@@ -362,8 +364,9 @@ https://tvradiozap.eu/1115
 https://tvradiozap.eu/1018
 #EXTINF:-1 tvg-id="FR:.Scene.de.Crime.fr" tvg-name="Scène de crime" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ebd30033-1eba-40b2-ae22-54a97c2f5e8a-width640-quality90.jpeg" group-title="Reportages",Scène de crime
 https://tvradiozap.eu/1171
-#EXTINF:-1,-------------- Sciences
-//
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="C'est pas Sorcier" tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/thumbnail.jpg" group-title="Sciences",C'est pas Sorcier
 https://tvradiozap.eu/657
 #EXTINF:-1 tvg-id="FRBD5100003TP" tvg-name="Epicurieux" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100003TP_20240507T094247SQUARE.png" group-title="Sciences",Epicurieux
@@ -380,8 +383,9 @@ https://tvradiozap.eu/843
 https://tvradiozap.eu/1241
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="Tech&Co" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Tech_%26_Co.svg/500px-Tech_%26_Co.svg.png" group-title="Sciences",Tech&Co
 https://tvradiozap.eu/878
-#EXTINF:-1,-------------- Séries-Films
-//
+
+
+
 #EXTINF:-1 tvg-id="FR:.BBC.Drama.fr" tvg-name="BBC Séries" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2900001UF_20250916T003553SQUARE.png&h=250" group-title="Séries-Films",BBC Séries
 https://tvradiozap.eu/844
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-logo="https://i.servimg.com/u/f76/20/26/59/00/untitl10.png" group-title="Séries-Films",Canal 4
@@ -408,8 +412,7 @@ https://tvradiozap.eu/1235
 https://tvradiozap.eu/1028
 #EXTINF:-1 tvg-id="" tvg-name="Zee One" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/6e44fbc4-7921-4fbc-b215-f90c74cf207e-width640-quality90.jpeg" group-title="Séries-Films",Zee One
 https://tvradiozap.eu/1249
-#EXTINF:-1,-------------- Voyage
-//
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Arte Invitation au Voyage" tvg-logo="https://princealbert1.mc/var/cap/storage/images/_aliases/w2160/7/7/4/0/50477-1-fre-FR/1e396f6f66bb-th-1-.jpg2.jpg" group-title="Voyage",Arte Invitation au Voyage
 https://tvradiozap.eu/91
