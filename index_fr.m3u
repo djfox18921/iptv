@@ -149,10 +149,10 @@ https://tvradiozap.eu/839
 https://tvradiozap.eu/986
 #EXTINF:-1 tvg-id="FR4600001FK" tvg-name="Top Sci-Fi" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4600001FK_20250121T012945SQUARE.png&h=250" group-title="Séries-Films",Top Sci-Fi
 https://tvradiozap.eu/1028
-#EXTINF:-1 tvg-id="" tvg-name="Zee One" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/6e44fbc4-7921-4fbc-b215-f90c74cf207e-width640-quality90.jpeg" group-title="Séries-Films",Zee One
-https://tvradiozap.eu/1249
 #EXTINF:-1 tvg-id="FRBD5100001ZA" tvg-name="ADN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20240214T035741SQUARE.png_20240214035742.png" group-title="Jeunesse",ADN
 https://tvradiozap.eu/978
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Jeunesse",Cartoon Network
+https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="fitinitv.fr" tvg-name="Fitini TV" tvg-logo="https://i.imgur.com/LoLKm1n.png" group-title="Jeunesse",Fitini TV
 https://tvradiozap.eu/1059
 #EXTINF:-1 tvg-id="FRBD5100002NL" tvg-name="Supertoons" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100002NL_20241030T154340SQUARE.png&h=250" group-title="Jeunesse",Supertoons
