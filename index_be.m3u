@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="Entertainment",La Une SD
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" tvg-country="BE" group-title="Entertainment",La Une SD
 http://41.205.93.154/LA-UNE/mpegts
-#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="Entertainment",La Une SD
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" tvg-country="BE" group-title="Entertainment",La Une SD
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-#EXTINF:-1 tvg-id="LaDeux.be" tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="",Tipik SD
+#EXTINF:-1 tvg-id="LaDeux.be" tvg-logo="https://i.imgur.com/LKLjnrp.png" tvg-country="BE" group-title="",Tipik SD
 http://103.184.64.85:12000/stream/allchannel/rtbftipik/master.m3u8
-#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://i.imgur.com/jMs4h9F.png" group-title="General",La Trois SD
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://i.imgur.com/jMs4h9F.png" tvg-country="BE" group-title="General",La Trois SD
 http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
-#EXTINF:-1 tvg-id="AB3.fr" tvg-logo="https://i.postimg.cc/RZ2N611D/ab3.png" group-title="Entertainment",AB3 HD
+#EXTINF:-1 tvg-id="AB3.fr" tvg-logo="https://i.postimg.cc/RZ2N611D/ab3.png" tvg-country="BE" group-title="Entertainment",AB3 HD
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="",RTL-TVI SD
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" tvg-country="BE" group-title="",RTL-TVI SD
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/1EkZRwn.png" group-title="News",LN24 SD
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/1EkZRwn.png" tvg-country="BE" group-title="News",LN24 SD
 https://live-ln24.digiteka.com/1911668011/index.m3u8
-#EXTINF:-1 tvg-id="TVLux.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="",TV Lux SD
+#EXTINF:-1 tvg-id="TVLux.be" tvg-logo="https://i.imgur.com/ljbdWkC.png" tvg-country="BE" group-title="",TV Lux SD
 https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8
