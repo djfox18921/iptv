@@ -11,6 +11,8 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://i.imgur.com/5HcyMnW.png" tvg-country="FR" group-title="Entertainment",Canal+ SD
 http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-logo="https://i.postimg.cc/XqY0jJJg/canalpluscinemas.png" tvg-country="FR" group-title="Entertainment",Canal+ Cinema SD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" tvg-country="FR" group-title="Entertainment",M6 SD
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-country="FR" group-title="Entertainment",arte HD
