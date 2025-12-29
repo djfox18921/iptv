@@ -27,6 +27,18 @@ https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 #EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" tvg-country="FR" group-title="",TFX SD
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" tvg-country="BE" group-title="Entertainment",La Une SD
+http://41.205.93.154/LA-UNE/mpegts
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" tvg-country="BE" group-title="Entertainment",La Une SD
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-id="LaDeux.be" tvg-logo="https://i.imgur.com/LKLjnrp.png" tvg-country="BE" group-title="",Tipik SD
+http://103.184.64.85:12000/stream/allchannel/rtbftipik/master.m3u8
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://i.imgur.com/jMs4h9F.png" tvg-country="BE" group-title="General",La Trois SD
+http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
+#EXTINF:-1 tvg-id="AB3.fr" tvg-logo="https://i.postimg.cc/RZ2N611D/ab3.png" tvg-country="BE" group-title="Entertainment",AB3 HD
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" tvg-country="BE" group-title="",RTL-TVI SD
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" tvg-country="FR" group-title="Kids",Gulli SD
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8#680
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-country="FR" group-title="News",BFM TV SD
