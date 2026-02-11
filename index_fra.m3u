@@ -95,7 +95,7 @@ http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tcm/browser-dash/tcm.mpd
 #EXTINF:-1 tvg-id="TEVA.fr" tvg-logo="https://commons.wikimedia.org/wiki/File:T%C3%A9va_logo_2021.svg" tvg-country="FR" group-title="General",TEVA
 http://151.80.18.177:86/Teva_HD/index.m3u8
-#EXTINF:-1 tvg-id="Scream'IN" tvg-logo="https://share.google/jnsyjCRvn78cYIhmv" tvg-country="FR" group-title="",ScreamIn SD
+#EXTINF:-1 tvg-id="FRBB4600002K5" tvg-name="ScreamIn" tvg-logo="https://share.google/jnsyjCRvn78cYIhmv" tvg-country="FR" group-title="",ScreamIn SD
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Totale" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR220000105_20250617T031603SQUARE.png&h=320" tvg-country="FR" group-title="Cinéma",Action Totale
 https://tvradiozap.eu/1263
