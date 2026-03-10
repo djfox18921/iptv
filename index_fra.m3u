@@ -157,18 +157,8 @@ https://tvradiozap.eu/1236
 https://tvradiozap.eu/1235
 #EXTINF:-1 tvg-id="FRBC9000041F" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC9000041F_20240117T032749SQUARE.png_20240117032749.png" tvg-country="FR" group-title="Cinéma",Trailers
 https://tvradiozap.eu/1012
-#EXTINF:-1 tvg-id="FRBA3300021ME" tvg-name="Wildside TV" tvg-logo="https://revusetcorriges.com/wp-content/uploads/2017/11/boite-logo-wild-side.png" tvg-country="FR" group-title="Cinéma",Wildside TV
-https://tvradiozap.eu/652
-#EXTINF:-1 tvg-id="Wild Side" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Wild_Side_Films_Logo.png" tvg-country="FR" group-title="Entertainment",Wild Side SD
-https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FR:.BBC.Drama.fr" tvg-name="BBC Séries" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2900001UF_20250916T003553SQUARE.png&h=250" tvg-country="FR" group-title="Séries-Films",BBC Séries
 https://tvradiozap.eu/844
-#EXTINF:-1 tvg-id="" tvg-name="FilmRise Binge Watch" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f1183189-195b-4acf-bad4-ae4c2cd3bba4-filmrise-free-binge-watch-1607074455-width200-quality90.jpeg" tvg-country="FR" group-title="Séries-Films",FilmRise Binge Watch
-https://tvradiozap.eu/1240
-#EXTINF:-1 tvg-id="" tvg-name="FilmRise Séries" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcc0951e8-548c-48ef-afcd-82d7eca657c0%2FPlex_FilmRise_S__ries_Color_Logo.png" tvg-country="FR" group-title="Séries-Films",FilmRise Séries
-https://tvradiozap.eu/658
-#EXTINF:-1 tvg-id="PlutoTVSeriesFantastiques.fr" tvg-name="Plu.TV Séries Fantastiques" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/thumbnail_1747044090790.jpg" tvg-country="FR" group-title="Séries-Films",Plu.TV Séries Fantastiques
-https://tvradiozap.eu/749
 #EXTINF:-1 tvg-id="FR2600009UG" tvg-name="Rakuten TV Crime" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5cd5a6bd-da75-4977-94fe-7c18e4c74b08-width308-quality100.jpeg" tvg-country="FR" group-title="Séries-Films",Rakuten TV Crime
 https://tvradiozap.eu/839
 #EXTINF:-1 tvg-id="FRBB50000016B tvg-name="Run:Time Film et Séries" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB50000016B_20241030T154324SQUARE.png&h=250" tvg-country="FR" group-title="Séries-Films",Run:Time Film et Séries
@@ -187,6 +177,8 @@ https://tvradiozap.eu/1218
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://i.imgur.com/UHkaObv.png" tvg-country="FR" group-title="Animation;Entertainment",Game One SD
 https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Casi_discovery_channel.jpg" group-title="Documentaires",Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:Histoire_TV_logo_2019.svg" tvg-country="FR" group-title="General",Histoire SD
 http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5Monde FBS" tvg-logo="https://i.imgur.com/uGs4HSL.png" tvg-country="FR" group-title="Généraliste",TV5Monde FBS
@@ -209,8 +201,6 @@ https://tvradiozap.eu/871
 https://tvradiozap.eu/869
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-country="FR" group-title="Info",TV5Monde Info
 https://tvradiozap.eu/673
-#EXTINF:-1 tvg-id="PuissanceTV.fr@SD" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" tvg-country="FR" group-title="General",Puissance TV SD
-https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="MaisonEtTravaux.fr" tvg-logo="https://i.imgur.com/uYpc6nE.png" tvg-country="FR" group-title="Lifestyle",Maison & Travaux TV SD
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 #EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" tvg-country="FR" group-title="Entertainment",MTV SD
@@ -245,8 +235,6 @@ https://tvradiozap.eu/1241
 https://tvradiozap.eu/878
 #EXTINF:-1 tvg-id="" tvg-name="Arte Invitation au Voyage" tvg-logo="https://princealbert1.mc/var/cap/storage/images/_aliases/w2160/7/7/4/0/50477-1-fre-FR/1e396f6f66bb-th-1-.jpg2.jpg" tvg-country="FR" group-title="Voyage",Arte Invitation au Voyage
 https://tvradiozap.eu/91
-#EXTINF:-1 tvg-id="" tvg-name="Echos du monde" tvg-logo="https://images.plex.tv/photo?size=small-120&scale=2&url=https://provider-static.plex.tv/epg/cms/production/12ed6042-d759-427f-8856-c4a8d1d56cb4/Echos_whiteRDX.png" tvg-country="FR" group-title="Voyage",Echos du monde
-https://tvradiozap.eu/1311
 #EXTINF:-1 tvg-id="RMCJiraidormirchezvous.fr" tvg-name="RMC J'irai dormir chez vous" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCJDCVmin.jpg" tvg-country="FR" group-title="Voyage",RMC J'irai dormir chez vous
 https://tvradiozap.eu/492
 #EXTINF:-1 tvg-id="FR:.Travelxp.fr" tvg-name="Travelxp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" tvg-country="FR" group-title="Voyage",Travelxp
@@ -263,10 +251,6 @@ https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3
 https://tvradiozap.eu/1054
 #EXTINF:-1 tvg-id="BFMGrandsReportages.fr" tvg-name="BFM Grands Reportages" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle10920BFMGrandsreportages.jpg" tvg-country="FR" group-title="Documentaires",BFM Grands Reportages
 https://tvradiozap.eu/724
-#EXTINF:-1 tvg-id="" tvg-name="DocStory" tvg-logo="https://mediakwest.com/wp-content/uploads/2024/04/thumbnail_Gedeon-Doc-Story-Mediakwest.jpg" tvg-country="FR" group-title="Documentaires",DocStory
-https://tvradiozap.eu/1155
-#EXTINF:-1 tvg-id="" tvg-name="Crime Scene" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https://provider-static.plex.tv/epg/cms/production/0e7ca5ae-d7a9-4e1a-8d46-1503280f1de6/Crime_SceneTV_RDX_WHITE_GOOD.png" tvg-country="FR" group-title="Reportages",Crime Scene
-https://tvradiozap.eu/1294
 #EXTINF:-1 tvg-id="FR:.Enquêtes.de.Choc.fr" tvg-name="Enquêtes de Choc" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20230712T021542SQUARE.png_20230712021542.png" tvg-country="FR" group-title="Reportages",Enquêtes de Choc
 https://tvradiozap.eu/541
 #EXTINF:-1 tvg-id="FR:La.chaine.du.fait.divers.fr" tvg-name="Homicide" tvg-logo="https://provider-static.plex.tv/epg/cms/production/84791923-c240-4b13-99c5-cafab9931e33/HOMICIDE_ARTWORK_VERTICAL__-_richard_maroko.jpg" tvg-country="FR" group-title="Reportages",Homicide
@@ -275,7 +259,5 @@ https://tvradiozap.eu/1023
 https://tvradiozap.eu/1293
 #EXTINF:-1 tvg-id="" tvg-name="Real Life" tvg-logo="https://yt3.googleusercontent.com/iXcQd1gUJ4bMRTmsH2ZbhUu4GEuE6q4VHcNMy1YAZ5Vv-Bi6k2rFj3AKINS1fV6o5uMnr9dS=w1707-fcrop64=1%2C00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" tvg-country="FR" group-title="Reportages",Real Life
 https://tvradiozap.eu/1172
-#EXTINF:-1 tvg-id="FR:.Reportage.-.Spica.Life.fr" tvg-name="Reportage Spica Life" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2b4f9d7a-cbf0-402f-823c-362977396ff6-width200-quality90.jpeg" tvg-country="FR" group-title="Reportages",Reportage Spica Life
-https://tvradiozap.eu/1115
 #EXTINF:-1 tvg-id="RMCAlerteSecours.fr" tvg-name="RMC Alerte Secours" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCAlertesecours.jpg" tvg-country="FR" group-title="Reportages",RMC Alerte Secours
 https://tvradiozap.eu/1018
